@@ -1,0 +1,23 @@
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Production
+.next
+out
+build
+
+# Logs
+logs
+*.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Mac
+.DS_Store
